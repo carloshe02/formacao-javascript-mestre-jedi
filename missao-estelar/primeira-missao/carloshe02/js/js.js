@@ -6,7 +6,7 @@ function eventoOnload(){
 }
 // ------ Fim function eventoOnload() ------//
 
-//  ------ function para realizar ação button ------//
+//  ------ function para realizar ação button ------ //
 function eventoOnclick(){
     console.log("misão estelar js realizada com sucesso!");
 }
